@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-std::vector<int> power(int input) {
+std::vector<int> factorial(int input) {
     std::vector<int> fact = { 1 };
     int carry = 0; //переменная переноса
     int index = 0; //Переменная, отвечающая за цифру разряда
@@ -24,7 +24,7 @@ std::vector<int> power(int input) {
 int main(){
     int input = 0;
     std::cin >> input;
-    std::vector<int> output = power(input);
+    std::vector<int> output = factorial(input);
     for(auto it = output.rbegin(); it != output.rend(); ++it) { //rbegin - функция, возвращающая итератор, указывающий на последний элемент в обратном векторе, rend - последний элемент в обратном векторе
         std::cout << *it;
     }    
