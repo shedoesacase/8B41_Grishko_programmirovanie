@@ -22,7 +22,7 @@ std::vector<int> lettercounter(std::vector<char> letters){ //функция, к�
 
 bool possible(std::vector<int> letters, std::vector<int> letcount) { //функция для проверки, возможно ли составить слово
     for (int i = 0; i < 26; i++) {
-        if (letcount[i] > letters[i]) {
+        if (letcount[i] >= letters[i]) {
             return false; 
         }
     }
