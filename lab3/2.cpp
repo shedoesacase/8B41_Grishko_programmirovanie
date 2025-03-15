@@ -4,7 +4,7 @@
 bool is_palindrom(std::string new_str){ //функция для проверки слова на палиндром
     std::string old_str = "";
 
-    for(int i; i < new_str.length(); i++){ //цикл, убирающий пробел в строке
+    for(int i = 0; i < new_str.length(); i++){ //цикл, убирающий пробел в строке
         if(new_str[i] == ' '){
             new_str.erase(i, 1);
         }
