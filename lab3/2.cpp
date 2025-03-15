@@ -27,7 +27,7 @@ bool is_palindrom(std::string new_str){ //функция для проверки
 }
 
 int main(){
-    std::string str = "race fast safe car", str2 = "";
+    std::string str = "race fast safe car";
     std::cout << is_palindrom(str);
     return 0;
 }
