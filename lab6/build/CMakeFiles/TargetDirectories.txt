@@ -1,0 +1,3 @@
+D:/programming labs/6 lab/build/CMakeFiles/matrix.dir
+D:/programming labs/6 lab/build/CMakeFiles/edit_cache.dir
+D:/programming labs/6 lab/build/CMakeFiles/rebuild_cache.dir
