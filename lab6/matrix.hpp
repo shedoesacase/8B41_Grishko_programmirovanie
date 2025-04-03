@@ -18,8 +18,8 @@ class Matrix {
         Matrix operator-(const Matrix &second);//Оператор вычитания
         Matrix operator*(const int& num);//оператор умножения на число
         Matrix operator*(const Matrix &second);//оператор умножения на матрицу
-        Matrix operator=(const Matrix &second);//оператор умножения на матрицу
-        bool operator==(const Matrix &second);//оператор умножения на матрицу
+        Matrix operator=(const Matrix &second);//оператор присваивания
+        bool operator==(const Matrix &second);//оператор сравнения
         int max(); //поиск максимума
         
         
