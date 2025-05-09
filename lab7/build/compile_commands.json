@@ -1,0 +1,104 @@
+[
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -I\"D:/programming labs/7 lab/assert_tests/../tasks\" -g -o assert_tests\\CMakeFiles\\AssertTests.dir\\main.cpp.obj -c \"D:\\programming labs\\7 lab\\assert_tests\\main.cpp\"",
+  "file": "D:\\programming labs\\7 lab\\assert_tests\\main.cpp",
+  "output": "assert_tests\\CMakeFiles\\AssertTests.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -I\"D:/programming labs/7 lab/assert_tests/../tasks\" -g -o assert_tests\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task1.cpp.obj -c \"D:\\programming labs\\7 lab\\tasks\\task1.cpp\"",
+  "file": "D:\\programming labs\\7 lab\\tasks\\task1.cpp",
+  "output": "assert_tests\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task1.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -I\"D:/programming labs/7 lab/ctest_tests/../tasks\" -g -o ctest_tests\\CMakeFiles\\test1.dir\\test1.cpp.obj -c \"D:\\programming labs\\7 lab\\ctest_tests\\test1.cpp\"",
+  "file": "D:\\programming labs\\7 lab\\ctest_tests\\test1.cpp",
+  "output": "ctest_tests\\CMakeFiles\\test1.dir\\test1.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -I\"D:/programming labs/7 lab/ctest_tests/../tasks\" -g -o ctest_tests\\CMakeFiles\\test1.dir\\__\\tasks\\task2.cpp.obj -c \"D:\\programming labs\\7 lab\\tasks\\task2.cpp\"",
+  "file": "D:\\programming labs\\7 lab\\tasks\\task2.cpp",
+  "output": "ctest_tests\\CMakeFiles\\test1.dir\\__\\tasks\\task2.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -I\"D:/programming labs/7 lab/ctest_tests/../tasks\" -g -o ctest_tests\\CMakeFiles\\test2.dir\\test2.cpp.obj -c \"D:\\programming labs\\7 lab\\ctest_tests\\test2.cpp\"",
+  "file": "D:\\programming labs\\7 lab\\ctest_tests\\test2.cpp",
+  "output": "ctest_tests\\CMakeFiles\\test2.dir\\test2.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -I\"D:/programming labs/7 lab/ctest_tests/../tasks\" -g -o ctest_tests\\CMakeFiles\\test2.dir\\__\\tasks\\task2.cpp.obj -c \"D:\\programming labs\\7 lab\\tasks\\task2.cpp\"",
+  "file": "D:\\programming labs\\7 lab\\tasks\\task2.cpp",
+  "output": "ctest_tests\\CMakeFiles\\test2.dir\\__\\tasks\\task2.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -I\"D:/programming labs/7 lab/ctest_tests/../tasks\" -g -o ctest_tests\\CMakeFiles\\test3.dir\\test3.cpp.obj -c \"D:\\programming labs\\7 lab\\ctest_tests\\test3.cpp\"",
+  "file": "D:\\programming labs\\7 lab\\ctest_tests\\test3.cpp",
+  "output": "ctest_tests\\CMakeFiles\\test3.dir\\test3.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -I\"D:/programming labs/7 lab/ctest_tests/../tasks\" -g -o ctest_tests\\CMakeFiles\\test3.dir\\__\\tasks\\task2.cpp.obj -c \"D:\\programming labs\\7 lab\\tasks\\task2.cpp\"",
+  "file": "D:\\programming labs\\7 lab\\tasks\\task2.cpp",
+  "output": "ctest_tests\\CMakeFiles\\test3.dir\\__\\tasks\\task2.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -I\"D:/programming labs/7 lab/gtest_tests/../tasks\" -I\"D:/programming labs/7 lab\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest/include\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest\" -g -o gtest_tests\\CMakeFiles\\GTestTests.dir\\tests.cpp.obj -c \"D:\\programming labs\\7 lab\\gtest_tests\\tests.cpp\"",
+  "file": "D:\\programming labs\\7 lab\\gtest_tests\\tests.cpp",
+  "output": "gtest_tests\\CMakeFiles\\GTestTests.dir\\tests.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -I\"D:/programming labs/7 lab/gtest_tests/../tasks\" -I\"D:/programming labs/7 lab\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest/include\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest\" -g -o gtest_tests\\CMakeFiles\\GTestTests.dir\\__\\tasks\\task3.cpp.obj -c \"D:\\programming labs\\7 lab\\tasks\\task3.cpp\"",
+  "file": "D:\\programming labs\\7 lab\\tasks\\task3.cpp",
+  "output": "gtest_tests\\CMakeFiles\\GTestTests.dir\\__\\tasks\\task3.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -I\"D:/programming labs/7 lab/gtest_tests/../tasks\" -I\"D:/programming labs/7 lab\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest/include\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest\" -g -o gtest_tests\\CMakeFiles\\GTestTests.dir\\__\\tasks\\task4.cpp.obj -c \"D:\\programming labs\\7 lab\\tasks\\task4.cpp\"",
+  "file": "D:\\programming labs\\7 lab\\tasks\\task4.cpp",
+  "output": "gtest_tests\\CMakeFiles\\GTestTests.dir\\__\\tasks\\task4.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -I\"D:/programming labs/7 lab/gtest_tests/../tasks\" -I\"D:/programming labs/7 lab\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest/include\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest\" -g -o gtest_tests\\CMakeFiles\\GTestTests.dir\\__\\tasks\\task6.cpp.obj -c \"D:\\programming labs\\7 lab\\tasks\\task6.cpp\"",
+  "file": "D:\\programming labs\\7 lab\\tasks\\task6.cpp",
+  "output": "gtest_tests\\CMakeFiles\\GTestTests.dir\\__\\tasks\\task6.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -I\"D:/programming labs/7 lab/gtest_tests/../tasks\" -I\"D:/programming labs/7 lab\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest/include\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest\" -g -o gtest_tests\\CMakeFiles\\GTestTests.dir\\__\\tasks\\task7.cpp.obj -c \"D:\\programming labs\\7 lab\\tasks\\task7.cpp\"",
+  "file": "D:\\programming labs\\7 lab\\tasks\\task7.cpp",
+  "output": "gtest_tests\\CMakeFiles\\GTestTests.dir\\__\\tasks\\task7.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -I\"D:/programming labs/7 lab/build/_deps/googletest-src/googlemock/include\" -I\"D:/programming labs/7 lab/build/_deps/googletest-src/googlemock\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest/include\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest\" -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"D:\\programming labs\\7 lab\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc\"",
+  "file": "D:\\programming labs\\7 lab\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googlemock/include\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googlemock\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest/include\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest\" -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"D:\\programming labs\\7 lab\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc\"",
+  "file": "D:\\programming labs\\7 lab\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -I\"D:/programming labs/7 lab/build/_deps/googletest-src/googletest/include\" -I\"D:/programming labs/7 lab/build/_deps/googletest-src/googletest\" -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"D:\\programming labs\\7 lab\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc\"",
+  "file": "D:\\programming labs\\7 lab\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj"
+},
+{
+  "directory": "D:/programming labs/7 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest/include\" -isystem \"D:/programming labs/7 lab/build/_deps/googletest-src/googletest\" -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"D:\\programming labs\\7 lab\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc\"",
+  "file": "D:\\programming labs\\7 lab\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj"
+}
+]

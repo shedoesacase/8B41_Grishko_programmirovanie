@@ -1,0 +1,48 @@
+Start testing: May 04 17:32 Алтайское стандартное время
+----------------------------------------------------------
+1/3 Testing: test1
+1/3 Test: test1
+Command: "D:/programming labs/7 lab/build/ctest_tests/test1.exe"
+Directory: D:/programming labs/7 lab/build/ctest_tests
+"test1" start time: May 04 17:32 Алтайское стандартное время
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test1" end time: May 04 17:32 Алтайское стандартное время
+"test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: test2
+2/3 Test: test2
+Command: "D:/programming labs/7 lab/build/ctest_tests/test2.exe"
+Directory: D:/programming labs/7 lab/build/ctest_tests
+"test2" start time: May 04 17:32 Алтайское стандартное время
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test2" end time: May 04 17:32 Алтайское стандартное время
+"test2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: test3
+3/3 Test: test3
+Command: "D:/programming labs/7 lab/build/ctest_tests/test3.exe"
+Directory: D:/programming labs/7 lab/build/ctest_tests
+"test3" start time: May 04 17:32 Алтайское стандартное время
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"test3" end time: May 04 17:32 Алтайское стандартное время
+"test3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 04 17:32 Алтайское стандартное время
