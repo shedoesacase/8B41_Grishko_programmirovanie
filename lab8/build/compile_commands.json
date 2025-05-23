@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/programming labs/8 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab8t1.dir\\task1.cpp.obj -c \"D:\\programming labs\\8 lab\\task1.cpp\"",
+  "file": "D:\\programming labs\\8 lab\\task1.cpp",
+  "output": "CMakeFiles\\lab8t1.dir\\task1.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/8 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab8t1.dir\\task1code.cpp.obj -c \"D:\\programming labs\\8 lab\\task1code.cpp\"",
+  "file": "D:\\programming labs\\8 lab\\task1code.cpp",
+  "output": "CMakeFiles\\lab8t1.dir\\task1code.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/8 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab8t2.dir\\task2.cpp.obj -c \"D:\\programming labs\\8 lab\\task2.cpp\"",
+  "file": "D:\\programming labs\\8 lab\\task2.cpp",
+  "output": "CMakeFiles\\lab8t2.dir\\task2.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/8 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab8t2.dir\\task2table.cpp.obj -c \"D:\\programming labs\\8 lab\\task2table.cpp\"",
+  "file": "D:\\programming labs\\8 lab\\task2table.cpp",
+  "output": "CMakeFiles\\lab8t2.dir\\task2table.cpp.obj"
+},
+{
+  "directory": "D:/programming labs/8 lab/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -isystem D:/msys2/mingw64/include/opencv4 -g -o CMakeFiles\\lab8t3.dir\\task3.cpp.obj -c \"D:\\programming labs\\8 lab\\task3.cpp\"",
+  "file": "D:\\programming labs\\8 lab\\task3.cpp",
+  "output": "CMakeFiles\\lab8t3.dir\\task3.cpp.obj"
+}
+]

@@ -1,0 +1,5 @@
+D:/programming labs/8 lab/build/CMakeFiles/lab8t1.dir
+D:/programming labs/8 lab/build/CMakeFiles/lab8t2.dir
+D:/programming labs/8 lab/build/CMakeFiles/lab8t3.dir
+D:/programming labs/8 lab/build/CMakeFiles/edit_cache.dir
+D:/programming labs/8 lab/build/CMakeFiles/rebuild_cache.dir
